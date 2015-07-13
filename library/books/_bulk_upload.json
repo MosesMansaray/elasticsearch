@@ -1,0 +1,12 @@
+{"index": {"_id": 1}}
+{
+"title": "Steve Jobs: The Exclusive Biography",
+"author": {
+"firstname": "Walter",
+"lastname": "Isaacson"
+},
+"price": 19.95
+"rrp": 19.95
+"format": "Hardcover"
+"publisher_date": "2015-06-21T23:39:49-0400",
+}
