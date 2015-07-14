@@ -47,37 +47,3 @@ PUT /library/books/_bulk
 {"title": "The Clean Coder: A Code of Conduct for Professional Programmers","author": {"firstname": "Robert C.","lastname": "Martin"},"price": 20.97,"rrp": 25.97,"format": "Kindle","publisher_date": "2004-11-04"}
 {"index": {"_id": 23}}
 {"title": "The Clean Coder: A Code of Conduct for Professional Programmers","author": {"firstname": "Robert C.","lastname": "Martin"},"price": 26.97,"rrp": 27.97,"format": "Hardcover","publisher_date": "2004-11-04"}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
